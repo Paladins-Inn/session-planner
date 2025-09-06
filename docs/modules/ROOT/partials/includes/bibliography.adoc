@@ -1,0 +1,8 @@
+:12factor: ↑xref:session-planner:ROOT:bibliography.adoc#factor12[12FACTOR]
+:agilemanifesto: ↑xref:session-planner:ROOT:bibliography.adoc#agilemanifesto[AGILE]
+:wordpress: ↑xref:session-planner:ROOT:bibliography.adoc#wordpress[WORDPRESS]
+:cleancode: ↑xref:session-planner:ROOT:bibliography.adoc#cleancode[CLEANCODE]
+:sapl: ↑xref:session-planner:ROOT:bibliography.adocs#sapl[SAPL]
+:scs: ↑xref:session-planner:ROOT:bibliography.adoc#scs[SCS]
+:baeldung01: ↑xref:session-planner:ROOT:bibliography.adocs#baeldung01[BAELDUNG01]
+:wiki01: ↑xref:session-planner:ROOT:bibliography.adoc#wiki01[WIKI01]

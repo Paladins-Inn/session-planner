@@ -1,0 +1,4 @@
+**** xref:session-planner:arc42:09_architecture_decisions/001_using-adrs.adoc[]
+**** xref:session-planner:arc42:09_architecture_decisions/002_spring-boot.adoc[]
+**** xref:session-planner:arc42:09_architecture_decisions/003_messaging-rabbitmq.adoc[]
+**** xref:session-planner:arc42:09_architecture_decisions/004_sql-data-store.adoc[]

@@ -1,0 +1,5 @@
+= Manual session-planner
+Roland T. Lichti <klenkes74@paladins-inn.de>
+:page-aliases: ROOT:index.adoc
+
+include::partial$config.adoc[]
